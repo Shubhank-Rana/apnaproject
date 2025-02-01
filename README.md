@@ -1,3 +1,3 @@
 # project-Demo
-<h6>this is my first Repository.</h6><br>
-Author : Shubhank Rana
+<h2>this is my first Repository.</h2>
+Author:Shubhank Rana
